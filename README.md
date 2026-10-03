@@ -1,4 +1,4 @@
-# TikTok Claims Classification: Data Inspection & Preparation
+# TikTok Claims EDA: Data Inspection & Preparation
 
 📌 About This Project
 
